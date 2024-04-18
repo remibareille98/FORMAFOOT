@@ -1,0 +1,22 @@
+Arial ? 
+
+Librairie supplémentaires ?
+
+create_pdf pq output extérieur ? 
+
+Plusieurs méthodes font les mêmes boucles
+
+images dans un tuple pas dans une liste
+
+réaranger le code, nom plus explicites
+
+create_pdf à revoir 
+
+page 3 texte sur logo à droite 
+
+Bien pour l'adaptation en fonction des tailles. 
+
+Pas standard sur les bulles.
+
+https://github.com/neckfire/FORMAFOOT/blob/master/formation_details.pdf
+

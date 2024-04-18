@@ -1,0 +1,9 @@
+https://github.com/NounsCiFuentes/FORMAFOOT
+
+doctstring sur une ligne pas besoin des triple """
+Prerequis et apports doivent être scalable 
+Infos en bulletpoint 
+
+font Arial
+
+

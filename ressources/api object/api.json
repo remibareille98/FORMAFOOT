@@ -2,7 +2,7 @@
     "id": 21,
     "ref": "92da802b-7da5-49e9-8bd5-010830cffe97",
     "avis": [],
-    "prix": 1000.0,
+    "prix": 3000.0,
     "tags": [],
     "photo": "https://notrebucket/test.png",
     "titre": "La vitesse - la qualité numero 1 du footballeur",
@@ -93,7 +93,287 @@
                                     "id": 1,
                                     "file": "https://notrebucket/photos_formateur/Video_Explosivit%C3%A9_tacle_1.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=forma-815%40formafoot.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T084621Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=8b4c990b48de09b573d0c2227276e6f1b377eb9f9cbb9c944f4479f32261f0a635548a9cb4518892b960bb0e51ffd25996e4aac2a288e25cd1b158ddae0c7a5608ee736684fba59c7e0d707333ce4804a175fdd907b1608c643ac78be1d938de39c4830c75f7f3a0b84a3878cf374b2ca0a7a253dcc881606b849f377d291d4823cc6deac32a61b4d4de8545ec4007b5ddbbe6a828fda95465c3013d0b598a4d0d937f0b256be9d7d50f8b6b29d3704369c3a00544e95f1419b0f632f97c29e0ece0e5e889a40b0920a9ac1d30d0f1cac435cdcad042914bed6505ed5ab807af74b7ebfe223171a025691c7b84e9e34690249fc4abd7a3a5c37e1743b5bc2c97",
                                     "name": "Developpement de l'explosivité avec un exercice de tacle",
-                                    "type": "video",
+                                    "type": "abidjan",
+                                    "duree": "00:01:32",
+                                    "creation": "2023-12-20T09:04:11.289178+01:00",
+                                    "info_sup": "Attention à l'utilisation de cet exercice sur synthétique (risques de brulures)",
+                                    "description": "Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé. Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé. Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé. Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé. Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé.",
+                                    "telechargeable": false
+                                }
+                            ],
+                            "description": "Cette vidéo met en avant l'utilisation de la vitesse spécifique, ici la vitesse courte et de réaction en intégrant cela au football.",
+                            "subchapitre_titre": "La vitesse spécifique"
+                        }
+                    ],
+                    "chapitre_titre": "Les différents type de vitesse",
+                    "chapitre_is_completed": false
+                }
+            ],
+            "description": "Dans ce premier module, vous aborderez la vitesse sous toutes ses formes. D'un point de vue général jusqu'au spécificité les plus techniques, plonger au coeur de la plus belle qualité du footballeur.",
+            "module_titre": "La vitesse: du général au spécifique",
+            "module_is_completed": false,
+            "module_percentage_completed": 0
+        },
+        {
+            "id": 2,
+            "ordre": 2,
+            "creation": "2023-12-20T10:06:13.899102+01:00",
+            "info_sup": null,
+            "chapitres": [
+                {
+                    "id": 3,
+                    "ordre": 1,
+                    "creation": "2023-12-20T10:03:21.920940+01:00",
+                    "info_sup": null,
+                    "description": "Dans ce chapitre, nous aborderons spécifiquement la vitesse chez les jeunes.",
+                    "subchapitre": [
+                        {
+                            "id": 4,
+                            "ordre": 1,
+                            "creation": "2023-12-20T09:33:44.884564+01:00",
+                            "info_sup": null,
+                            "documents": [
+                                {
+                                    "id": 4,
+                                    "file": "https://notrebucket/photos_formateur/autres_Formation_FRC_-_Jeunes.pptx?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=forma-815%40formafoot.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T084621Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=cde7753eae88f94745ed22a756b000f9f3a38187f2646c7e59be3039530d3efa40caaa55e774dcaea2521215cbc65ee43517a487f4a4d88c3ebd6ca435fcfa892383fa49cceae1edbffefa05a2d017212a2e39d9e7211ccd68803a8abdcdc6f328e0419c565e8021edcfe6ee64613f3b758659267c04af441ca84e2e0cd6d0f3d59ef0624945c69107e72285559373309a2dccee10776d3675add8840b5fdff7f3d2998ba537a29c3398d64f337237624ca89941bbab6e09fb17ecfee91e14486ef6a1ab5c25a907795ae514b312a23bdb276a73297380ffcb31006c1f2539fb3b9a8439cd2abf755a42892802a6fe42301142d92f222ee7dde33cf5f7649977",
+                                    "name": "La preparation physique chez les jeunes",
+                                    "type": "textdoc",
+                                    "duree": "00:50:00",
+                                    "creation": "2023-12-20T09:21:14.446947+01:00",
+                                    "info_sup": null,
+                                    "description": "Presentation powerpoint autour de la vitesse chez les jeunes.",
+                                    "telechargeable": false
+                                }
+                            ],
+                            "description": "Un introduction au travail de vitesse",
+                            "subchapitre_titre": "Présentation générale de la vitesse chez les jeunes"
+                        }
+                    ],
+                    "chapitre_titre": "La vitesse chez les jeunes",
+                    "chapitre_is_completed": false
+                }
+            ],
+            "description": "Dans ce module, vous aborderez toutes les spécifcités de la vitesse chez le jeune joueur",
+            "module_titre": "La vitesse: cas du jeune athlete",
+            "module_is_completed": false,
+            "module_percentage_completed": 0
+        },{
+            "id": 1,
+            "ordre": 1,
+            "creation": "2023-12-20T10:05:31.189196+01:00",
+            "info_sup": null,
+            "chapitres": [
+                {
+                    "id": 1,
+                    "ordre": 1,
+                    "creation": "2023-12-20T09:59:25.889865+01:00",
+                    "info_sup": null,
+                    "description": "Dans ce chapitre, vous aborderez les composantes de la vitesse",
+                    "subchapitre": [
+                        {
+                            "id": 3,
+                            "ordre": 1,
+                            "creation": "2023-12-20T09:32:24.907932+01:00",
+                            "info_sup": "droit d'image: Bastien Angeloz",
+                            "documents": [
+                                {
+                                    "id": 3,
+                                    "file": "https://notrebucket/photos_formateur/carnet_seance.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=forma-815%40formafoot.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T084621Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=6240dc0733ff99ffb1958142bf52f5e377a77b342cd1d0827edee7d80ba703b674eb273dcb8d14587bb12546eec14d4ca8ae0866c08f1ef8ccc38011dfe7ed75535d3af73ec229e680e351f8d756f7e82578af4997eee77cb477cf1cfda375fd31e2cae2a8a90141b8ee5a41028a5a2c1f60ee8e213eb4e56e65a4b5b4864011fa5de8d68d29e1d74c06a51dbf2b9077661a15ec5fd842f42e6ce522256d321235f83c24b9381efa92ef9cae2e3892ba71ea36c97f6dbc6df5420dd4c0dd96941295b76785d78ee24056f9cd095fed272f071dd132de490fefe6a780aaef66b7098b7c46b4dba28b7e27894a1d49c75d82e7aeb12247b67865e49bf0e5c7d618",
+                                    "name": "Les séances en football: Endurance, vitesse et force - 500 exercices",
+                                    "type": "pdf",
+                                    "duree": "02:00:00",
+                                    "creation": "2023-12-20T09:12:31.722893+01:00",
+                                    "info_sup": "Les exercices présents sont contenus dans les séances",
+                                    "description": "Vous trouverez dans ce pdf, 500 exercices autour des qualité de force, d'endurance et de vitesse en football.",
+                                    "telechargeable": false
+                                }
+                            ],
+                            "description": "Schéma de la composante de la vitesse. En rouge, vous pouvez voir la composante 1, qui est primodiale. En bleu, la composante secondaire.",
+                            "subchapitre_titre": "Les composantes de la vitesse"
+                        }
+                    ],
+                    "chapitre_titre": "Les différentes composantes de la vitesse",
+                    "chapitre_is_completed": false
+                },
+                {
+                    "id": 2,
+                    "ordre": 2,
+                    "creation": "2023-12-20T10:02:33.581419+01:00",
+                    "info_sup": "La sémantique peut changer entre les courant méthodologiques",
+                    "description": "Vous trouverez dans ce chapitre une naalyse détaillé des différents type de vitesse. En effet, plusieurs type peuvnt être mis en avant comme la vitesse courte, la vitesse longue ou en la vitesse intégré.",
+                    "subchapitre": [
+                        {
+                            "id": 1,
+                            "ordre": 1,
+                            "creation": "2023-12-20T09:29:35.125939+01:00",
+                            "info_sup": null,
+                            "documents": [
+                                {
+                                    "id": 2,
+                                    "file": "https://notrebucket/photos_formateur/autres_perflab_1.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=forma-815%40formafoot.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T084621Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=72ad98817235d56c9dfa25d8e02a90d1c616f654f90b284725c24124a46343642d5f811854c2157af9edc35301242ca7f51d359fb185c208e33bcd61dbf78ddcdb69d2163dc1fd4b5c5efc36b8517028d5ed88c6263e208e763d6f5eb40f825ba901a2da557c278fe7fe4676ac0e092aa2cbbf67123d7ab84b3d9d515a27e093c5d1ad41954c34afabc272c55768b7daef423feb5e99693ca3f119a15c4cc02f13d88ef78a1686339dfe7f9042ad5ec76bf4febc384edca721035e0590b681a31090a990729930edbb5da8321f6210ea4a133fc1d825189025cae14e6396ed7d4845a0fafb375dbaa2e5ff22cb33c898f6a4e2344a3800a60696438c9a4c26b9",
+                                    "name": "Visualisation des processus inhérent à la vitesse",
+                                    "type": "image",
+                                    "duree": "00:02:00",
+                                    "creation": "2023-12-20T09:10:18.937735+01:00",
+                                    "info_sup": "En rouge, les fleches vers l'exterieur du club. En bleu, les fleche à l'interieur du club.",
+                                    "description": "Les interactions étudiés ici permettent de mettre en avant les besoins en ressources de chaque composante",
+                                    "telechargeable": false
+                                }
+                            ],
+                            "description": "Ce sous chapitre abordera la vitesse dans sa forme générale ainsi que l'ensemble de ces composantes",
+                            "subchapitre_titre": "La vitesse générale"
+                        },
+                        {
+                            "id": 2,
+                            "ordre": 2,
+                            "creation": "2023-12-20T09:31:01.463313+01:00",
+                            "info_sup": null,
+                            "documents": [
+                                {
+                                    "id": 1,
+                                    "file": "https://notrebucket/photos_formateur/Video_Explosivit%C3%A9_tacle_1.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=forma-815%40formafoot.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T084621Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=8b4c990b48de09b573d0c2227276e6f1b377eb9f9cbb9c944f4479f32261f0a635548a9cb4518892b960bb0e51ffd25996e4aac2a288e25cd1b158ddae0c7a5608ee736684fba59c7e0d707333ce4804a175fdd907b1608c643ac78be1d938de39c4830c75f7f3a0b84a3878cf374b2ca0a7a253dcc881606b849f377d291d4823cc6deac32a61b4d4de8545ec4007b5ddbbe6a828fda95465c3013d0b598a4d0d937f0b256be9d7d50f8b6b29d3704369c3a00544e95f1419b0f632f97c29e0ece0e5e889a40b0920a9ac1d30d0f1cac435cdcad042914bed6505ed5ab807af74b7ebfe223171a025691c7b84e9e34690249fc4abd7a3a5c37e1743b5bc2c97",
+                                    "name": "Developpement de l'explosivité avec un exercice de tacle",
+                                    "type": "abidjan",
+                                    "duree": "00:01:32",
+                                    "creation": "2023-12-20T09:04:11.289178+01:00",
+                                    "info_sup": "Attention à l'utilisation de cet exercice sur synthétique (risques de brulures)",
+                                    "description": "Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé. Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé. Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé. Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé. Ce texte décrit les points essentielles des critère technique du contenu. Il peut y avoir des precisions et du contenu à proprement parlé.",
+                                    "telechargeable": false
+                                }
+                            ],
+                            "description": "Cette vidéo met en avant l'utilisation de la vitesse spécifique, ici la vitesse courte et de réaction en intégrant cela au football.",
+                            "subchapitre_titre": "La vitesse spécifique"
+                        }
+                    ],
+                    "chapitre_titre": "Les différents type de vitesse",
+                    "chapitre_is_completed": false
+                }
+            ],
+            "description": "Dans ce premier module, vous aborderez la vitesse sous toutes ses formes. D'un point de vue général jusqu'au spécificité les plus techniques, plonger au coeur de la plus belle qualité du footballeur.",
+            "module_titre": "La vitesse: du général au spécifique",
+            "module_is_completed": false,
+            "module_percentage_completed": 0
+        },
+        {
+            "id": 2,
+            "ordre": 2,
+            "creation": "2023-12-20T10:06:13.899102+01:00",
+            "info_sup": null,
+            "chapitres": [
+                {
+                    "id": 3,
+                    "ordre": 1,
+                    "creation": "2023-12-20T10:03:21.920940+01:00",
+                    "info_sup": null,
+                    "description": "Dans ce chapitre, nous aborderons spécifiquement la vitesse chez les jeunes.",
+                    "subchapitre": [
+                        {
+                            "id": 4,
+                            "ordre": 1,
+                            "creation": "2023-12-20T09:33:44.884564+01:00",
+                            "info_sup": null,
+                            "documents": [
+                                {
+                                    "id": 4,
+                                    "file": "https://notrebucket/photos_formateur/autres_Formation_FRC_-_Jeunes.pptx?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=forma-815%40formafoot.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T084621Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=cde7753eae88f94745ed22a756b000f9f3a38187f2646c7e59be3039530d3efa40caaa55e774dcaea2521215cbc65ee43517a487f4a4d88c3ebd6ca435fcfa892383fa49cceae1edbffefa05a2d017212a2e39d9e7211ccd68803a8abdcdc6f328e0419c565e8021edcfe6ee64613f3b758659267c04af441ca84e2e0cd6d0f3d59ef0624945c69107e72285559373309a2dccee10776d3675add8840b5fdff7f3d2998ba537a29c3398d64f337237624ca89941bbab6e09fb17ecfee91e14486ef6a1ab5c25a907795ae514b312a23bdb276a73297380ffcb31006c1f2539fb3b9a8439cd2abf755a42892802a6fe42301142d92f222ee7dde33cf5f7649977",
+                                    "name": "La preparation physique chez les jeunes",
+                                    "type": "textdoc",
+                                    "duree": "00:50:00",
+                                    "creation": "2023-12-20T09:21:14.446947+01:00",
+                                    "info_sup": null,
+                                    "description": "Presentation powerpoint autour de la vitesse chez les jeunes.",
+                                    "telechargeable": false
+                                }
+                            ],
+                            "description": "Un introduction au travail de vitesse",
+                            "subchapitre_titre": "Présentation générale de la vitesse chez les jeunes"
+                        }
+                    ],
+                    "chapitre_titre": "La vitesse chez les jeunes",
+                    "chapitre_is_completed": false
+                }
+            ],
+            "description": "Dans ce module, vous aborderez toutes les spécifcités de la vitesse chez le jeune joueur",
+            "module_titre": "La vitesse: cas du jeune athlete",
+            "module_is_completed": false,
+            "module_percentage_completed": 0
+        },{
+            "id": 1,
+            "ordre": 1,
+            "creation": "2023-12-20T10:05:31.189196+01:00",
+            "info_sup": null,
+            "chapitres": [
+                {
+                    "id": 1,
+                    "ordre": 1,
+                    "creation": "2023-12-20T09:59:25.889865+01:00",
+                    "info_sup": null,
+                    "description": "Dans ce chapitre, vous aborderez les composantes de la vitesse",
+                    "subchapitre": [
+                        {
+                            "id": 3,
+                            "ordre": 1,
+                            "creation": "2023-12-20T09:32:24.907932+01:00",
+                            "info_sup": "droit d'image: Bastien Angeloz",
+                            "documents": [
+                                {
+                                    "id": 3,
+                                    "file": "https://notrebucket/photos_formateur/carnet_seance.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=forma-815%40formafoot.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T084621Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=6240dc0733ff99ffb1958142bf52f5e377a77b342cd1d0827edee7d80ba703b674eb273dcb8d14587bb12546eec14d4ca8ae0866c08f1ef8ccc38011dfe7ed75535d3af73ec229e680e351f8d756f7e82578af4997eee77cb477cf1cfda375fd31e2cae2a8a90141b8ee5a41028a5a2c1f60ee8e213eb4e56e65a4b5b4864011fa5de8d68d29e1d74c06a51dbf2b9077661a15ec5fd842f42e6ce522256d321235f83c24b9381efa92ef9cae2e3892ba71ea36c97f6dbc6df5420dd4c0dd96941295b76785d78ee24056f9cd095fed272f071dd132de490fefe6a780aaef66b7098b7c46b4dba28b7e27894a1d49c75d82e7aeb12247b67865e49bf0e5c7d618",
+                                    "name": "Les séances en football: Endurance, vitesse et force - 500 exercices",
+                                    "type": "pdf",
+                                    "duree": "02:00:00",
+                                    "creation": "2023-12-20T09:12:31.722893+01:00",
+                                    "info_sup": "Les exercices présents sont contenus dans les séances",
+                                    "description": "Vous trouverez dans ce pdf, 500 exercices autour des qualité de force, d'endurance et de vitesse en football.",
+                                    "telechargeable": false
+                                }
+                            ],
+                            "description": "Schéma de la composante de la vitesse. En rouge, vous pouvez voir la composante 1, qui est primodiale. En bleu, la composante secondaire.",
+                            "subchapitre_titre": "Les composantes de la vitesse"
+                        }
+                    ],
+                    "chapitre_titre": "Les différentes composantes de la vitesse",
+                    "chapitre_is_completed": false
+                },
+                {
+                    "id": 2,
+                    "ordre": 2,
+                    "creation": "2023-12-20T10:02:33.581419+01:00",
+                    "info_sup": "La sémantique peut changer entre les courant méthodologiques",
+                    "description": "Vous trouverez dans ce chapitre une naalyse détaillé des différents type de vitesse. En effet, plusieurs type peuvnt être mis en avant comme la vitesse courte, la vitesse longue ou en la vitesse intégré.",
+                    "subchapitre": [
+                        {
+                            "id": 1,
+                            "ordre": 1,
+                            "creation": "2023-12-20T09:29:35.125939+01:00",
+                            "info_sup": null,
+                            "documents": [
+                                {
+                                    "id": 2,
+                                    "file": "https://notrebucket/photos_formateur/autres_perflab_1.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=forma-815%40formafoot.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T084621Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=72ad98817235d56c9dfa25d8e02a90d1c616f654f90b284725c24124a46343642d5f811854c2157af9edc35301242ca7f51d359fb185c208e33bcd61dbf78ddcdb69d2163dc1fd4b5c5efc36b8517028d5ed88c6263e208e763d6f5eb40f825ba901a2da557c278fe7fe4676ac0e092aa2cbbf67123d7ab84b3d9d515a27e093c5d1ad41954c34afabc272c55768b7daef423feb5e99693ca3f119a15c4cc02f13d88ef78a1686339dfe7f9042ad5ec76bf4febc384edca721035e0590b681a31090a990729930edbb5da8321f6210ea4a133fc1d825189025cae14e6396ed7d4845a0fafb375dbaa2e5ff22cb33c898f6a4e2344a3800a60696438c9a4c26b9",
+                                    "name": "Visualisation des processus inhérent à la vitesse",
+                                    "type": "image",
+                                    "duree": "00:02:00",
+                                    "creation": "2023-12-20T09:10:18.937735+01:00",
+                                    "info_sup": "En rouge, les fleches vers l'exterieur du club. En bleu, les fleche à l'interieur du club.",
+                                    "description": "Les interactions étudiés ici permettent de mettre en avant les besoins en ressources de chaque composante",
+                                    "telechargeable": false
+                                }
+                            ],
+                            "description": "Ce sous chapitre abordera la vitesse dans sa forme générale ainsi que l'ensemble de ces composantes",
+                            "subchapitre_titre": "La vitesse générale"
+                        },
+                        {
+                            "id": 2,
+                            "ordre": 2,
+                            "creation": "2023-12-20T09:31:01.463313+01:00",
+                            "info_sup": null,
+                            "documents": [
+                                {
+                                    "id": 1,
+                                    "file": "https://notrebucket/photos_formateur/Video_Explosivit%C3%A9_tacle_1.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=forma-815%40formafoot.iam.gserviceaccount.com%2F20240129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240129T084621Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=8b4c990b48de09b573d0c2227276e6f1b377eb9f9cbb9c944f4479f32261f0a635548a9cb4518892b960bb0e51ffd25996e4aac2a288e25cd1b158ddae0c7a5608ee736684fba59c7e0d707333ce4804a175fdd907b1608c643ac78be1d938de39c4830c75f7f3a0b84a3878cf374b2ca0a7a253dcc881606b849f377d291d4823cc6deac32a61b4d4de8545ec4007b5ddbbe6a828fda95465c3013d0b598a4d0d937f0b256be9d7d50f8b6b29d3704369c3a00544e95f1419b0f632f97c29e0ece0e5e889a40b0920a9ac1d30d0f1cac435cdcad042914bed6505ed5ab807af74b7ebfe223171a025691c7b84e9e34690249fc4abd7a3a5c37e1743b5bc2c97",
+                                    "name": "Developpement de l'explosivité avec un exercice de tacle",
+                                    "type": "abidjan",
                                     "duree": "00:01:32",
                                     "creation": "2023-12-20T09:04:11.289178+01:00",
                                     "info_sup": "Attention à l'utilisation de cet exercice sur synthétique (risques de brulures)",
